@@ -1,0 +1,9 @@
+EXAMPLE Bitvis VIP UART - Overview on Versions and Changes
+==============================================================
+
+v0.0.0
+----------
+Released: yyyy-mm-dd
+- Description of changes
+
+
