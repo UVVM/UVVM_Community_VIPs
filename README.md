@@ -10,7 +10,7 @@ The more VHDL VIPs we share, the easier it will be for us all to verify our FPGA
 By uploading your VIP to this community repository you enable other users to debug, verify and improve your VIP, thus improving the quality also for you as a contributor
 
 ## How?
-To contribute create a fork of the repo, and raise a pull request, or send a request to be added as a collaborator to: support@bitvis.no
+To contribute create a fork of the repo, and raise a pull request, or send a request to support@bitvis.no to be added as a collaborator.
 
 # Closed source or Commercial VIP
 We want to increase the total number of VHDL VIP available, and to do that we want all types of UVVM compatible VIP in this overview.
