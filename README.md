@@ -1,7 +1,6 @@
 # UVVM_Community_VIPs
-Repository for sharing VIPs for UVVM (Universal VHDL Verification Methodology).
-
-To contribute create a fork of the repo, and raise a pull request, or send a request to be added as a collaborator to: support@bitvis.no
+(Universal VHDL Verification Methodology Community Verification IP)
+Repository for sharing UVVM compatible Verification IP (VVCs, BFMs, etc).
 
 # Please contribute
 ## Community advantage 
@@ -9,6 +8,9 @@ The more VHDL VIPs we share, the easier it will be for us all to verify our FPGA
 
 ## Contributor advantages
 By uploading your VIP to this community repository you enable other users to debug, verify and improve your VIP, thus improving the quality also for you as a contributor
+
+## How?
+To contribute create a fork of the repo, and raise a pull request, or send a request to be added as a collaborator to: support@bitvis.no
 
 # Closed source or Commercial VIP
 We want to increase the total number of VHDL VIP available, and to do that we want all types of UVVM compatible VIP in this overview.
