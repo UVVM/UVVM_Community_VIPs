@@ -8,6 +8,9 @@
 -- OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 -- OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH UVVM OR THE USE OR OTHER DEALINGS IN UVVM.
 --========================================================================================================================
+-- Copyright (c) 2019 by <Some Name>. All rights reserved. 
+-- <Any disclaimer for the VIP or your additional work - if you like>
+--========================================================================================================================
 
 ------------------------------------------------------------------------------------------
 -- Description   : See library quick reference (under 'doc') and README-file(s)
