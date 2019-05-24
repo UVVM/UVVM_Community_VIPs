@@ -1,0 +1,7 @@
+/work
+ipbus_bfm_tb
+e~*.o
+*.ghw
+*.vim
+_Alert.txt
+_Log.txt
