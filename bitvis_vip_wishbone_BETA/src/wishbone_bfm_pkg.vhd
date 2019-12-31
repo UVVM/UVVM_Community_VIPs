@@ -57,8 +57,8 @@ package wishbone_bfm_pkg is
     clock_period                => 10 ns,
     clock_period_margin         => 0 ns,
     clock_margin_severity       => TB_ERROR,
-    setup_time                  => 0 ns,
-    hold_time                   => 0 ns,
+    setup_time                  => 2.5 ns,
+    hold_time                   => 2.5 ns,
     id_for_bfm                  => ID_BFM,
     id_for_bfm_wait             => ID_BFM_WAIT,
     id_for_bfm_poll             => ID_BFM_POLL
