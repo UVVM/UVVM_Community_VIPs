@@ -40,7 +40,7 @@ package wishbone_bfm_pkg is
   record
     max_wait_cycles             : integer;
     max_wait_cycles_severity    : t_alert_level;
-    clock_period                : time;          -- Needed in the VVC
+    clock_period                : time;          -- Period of the clock signal. 
     clock_period_margin         : time;          -- Input clock period margin to specified clock_period
     clock_margin_severity       : t_alert_level; -- The above margin will have this severity
     setup_time                  : time;          -- Setup time for generated signals, set to clock_period/4
